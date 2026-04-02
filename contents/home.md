@@ -1,6 +1,6 @@
 
 
-[![Ruiyang Lin](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[Ruiyang Lin](https://img.shields.io/badge/senli1073-github-blue?logo=github)]
 
 I am a undergraduate student in Fujian Normal University.
 
